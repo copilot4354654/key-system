@@ -1,1 +1,16 @@
-[{"temp":1762582766,"key":"teRdXn4PZYw1TEm1"},{"hwid":"HWID_629595","temp":1762583764,"key":"dEyYz9CtM0O6pPrV"}]
+[
+  {
+    "temp": 1762582766,
+    "key": "teRdXn4PZYw1TEm1"
+  },
+  {
+    "hwid": "HWID_629595",
+    "temp": 1762583764,
+    "key": "dEyYz9CtM0O6pPrV"
+  },
+  {
+    "key": "btXr97fO36KRLYEz",
+    "temp": 1794070336,
+    "hwid": null
+  }
+]
