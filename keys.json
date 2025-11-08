@@ -1,1 +1,16 @@
-[{"key":"tzX8t7eFzRp6HhQw","temp":1762621050},{"hwid":"DD9E6659-311A-46ED-9355-79A6626258601762635325902481762624524.7207973","temp":1762648687,"key":"9FSGv4qjYcaXvUoR"},{"hwid":"312D0013-0392-402A-ACD0-25144FE5F96C1762578683722911762567882.5684211","temp":1762665072,"key":"nif7maMQz2YLcShr"}]
+[
+  {
+    "key": "tzX8t7eFzRp6HhQw",
+    "temp": 1762621050
+  },
+  {
+    "hwid": null,
+    "temp": 1762648687,
+    "key": "9FSGv4qjYcaXvUoR"
+  },
+  {
+    "hwid": "312D0013-0392-402A-ACD0-25144FE5F96C1762578683722911762567882.5684211",
+    "temp": 1762665072,
+    "key": "nif7maMQz2YLcShr"
+  }
+]
