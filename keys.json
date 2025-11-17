@@ -1,1 +1,41 @@
-[{"key":"tzX8t7eFzRp6HhQw","temp":1762621050},{"hwid":"HWID_629595","temp":1762648687,"key":"9FSGv4qjYcaXvUoR"},{"hwid":"312D0013-0392-402A-ACD0-25144FE5F96C1762578683722911762567882.5684211","temp":1762665072,"key":"nif7maMQz2YLcShr"},{"hwid":"HWID_629595","temp":1762725049,"key":"WB8kU0WLU25ALU88"},{"hwid":"HWID_629595","temp":1794191360,"key":"rlm2ZbNdyifJqfJe"},{"hwid":"HWID_629595","temp":1762757374,"key":"0A01v5djvvjuIp5a"},{"hwid":"HWID_629595","temp":1764003217,"key":"oELXQkfD2sJUsQpy"}]
+[
+  {
+    "key": "tzX8t7eFzRp6HhQw",
+    "temp": 1762621050
+  },
+  {
+    "hwid": "HWID_629595",
+    "temp": 1762648687,
+    "key": "9FSGv4qjYcaXvUoR"
+  },
+  {
+    "hwid": "312D0013-0392-402A-ACD0-25144FE5F96C1762578683722911762567882.5684211",
+    "temp": 1762665072,
+    "key": "nif7maMQz2YLcShr"
+  },
+  {
+    "hwid": "HWID_629595",
+    "temp": 1762725049,
+    "key": "WB8kU0WLU25ALU88"
+  },
+  {
+    "hwid": "HWID_629595",
+    "temp": 1794191360,
+    "key": "rlm2ZbNdyifJqfJe"
+  },
+  {
+    "hwid": "HWID_629595",
+    "temp": 1762757374,
+    "key": "0A01v5djvvjuIp5a"
+  },
+  {
+    "hwid": "HWID_629595",
+    "temp": 1764003217,
+    "key": "oELXQkfD2sJUsQpy"
+  },
+  {
+    "key": "VtOTDVOJEmY5e4Dg",
+    "temp": 1763425442,
+    "hwid": null
+  }
+]
